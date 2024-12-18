@@ -1,11 +1,8 @@
 # The Samurai Dash
 This code is to make a game that is caled "Samurai Dash". This game is really simple where you need to elminate the enemies on the map until all of the enemies are all dead. The enemies also can shoot projectiles at you so you need to be careful and eliminate them without getting hit by it. There are 3 levels you need to complete to win this game.
  
-# This code game is inspired by this youtube video :
-# Click [here](https://www.youtube.com/watch?v=2gABYM5M0ww&t=20736s) for the youtube video
-
-# Video Demo
-## Click [here](https://drive.google.com/file/d/1aTKiqxKs1ou5ulQWpxsKqohnXStutEbR/view?usp=sharing) for the gameplay demo
+# This code game is inspired by this [Youtube video](https://www.youtube.com/watch?v=2gABYM5M0ww&t=20736s) 
+# [Video Demo](https://drive.google.com/file/d/1aTKiqxKs1ou5ulQWpxsKqohnXStutEbR/view?usp=sharing)
 
 # Python files
 - finaleprojecto.py - The main file to run the game.
@@ -57,13 +54,13 @@ This code is to make a game that is caled "Samurai Dash". This game is really si
 
 # The levels
 ## Level 1
-![Image](documentation/level1.png)
+![Image](images/documentation/level1.png)
 
 ## Level 2
-![Image](documentation/level2.png)
+![Image](images/documentation/level2.png)
 
 ## Level 3
-![Image](documentation/level3.png)
+![Image](images/documentation/level3.png)
 
 ## Win Screen
-![Image](documentation/win_screen.png)
+![Image](images/documentation/win_screen.png)
