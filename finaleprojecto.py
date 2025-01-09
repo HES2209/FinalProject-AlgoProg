@@ -154,7 +154,7 @@ class Game():
                 self.player.update(self.tilemap, (self.movement[1] - self.movement[0], 0))
                 self.player.render(self.display, offset=render_scroll)
 
-            # Update and render projectiles (If the projectile hits the player or a wall, it will remove the projectile and spawn the particles)
+            #Update and render projectiles (If the projectile hits the player or a wall, it will remove the projectile and spawn the particles)
             for projectile in self.projectiles.copy(): 
                 projectile[0][0] += projectile[1]
                 projectile[2] += 1
@@ -213,6 +213,7 @@ class Game():
                     if event.key == pygame.K_d:
                         self.movement[1] = False
 
+            #Make a transition effect when the player wins the game, start the game, or change levels
             if self.transition:
                 transition_surf = pygame.Surface(self.display.get_size())
                 pygame.draw.circle(transition_surf, (255, 255, 255), (self.display.get_width() // 2, self.display.get_height() // 2), (30 - abs(self.transition)) * 8)
