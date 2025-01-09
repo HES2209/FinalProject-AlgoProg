@@ -51,16 +51,16 @@ This code is to make a game that is caled "Samurai Dash". This game is really si
 
 # The levels
 ## Level 1
-![Image](images/documentation/level1.png)
+![Image](images/documentation/Screenshots/level1.png)
 
 ## Level 2
-![Image](images/documentation/level2.png)
+![Image](images/documentation/Screenshots/level2.png)
 
 ## Level 3
-![Image](images/documentation/level3.png)
+![Image](images/documentation/Screenshots/level3.png)
 
 ## Win Screen
-![Image](images/documentation/winscreen.png)
+![Image](images/documentation/Screenshots/winscreen.png)
 
 ### Inspired by [youtube video](https://www.youtube.com/watch?v=2gABYM5M0ww&t=20736s) 
 
